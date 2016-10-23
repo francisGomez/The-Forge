@@ -7,14 +7,12 @@ Name=soldados humanos blancos mk3
 4 Akroan Skyguard|BNG
 2 Alaborn Zealot|PO2
 1 Archetype of Courage|BNG
-1 Auriok Steelshaper|MRD
 2 Benalish Commander|PLC
 1 Captain of the Watch|DDO
 2 Cathars' Crusade|C14
 4 Champion of the Parish|DDQ
 2 Citanul Flute|10E
 2 Commander's Authority|AVR
-1 Concerted Effort|RAV
 1 Conjurer's Closet|C13
 1 Consul's Lieutenant|ORI
 2 Crusader of Odric|M13
@@ -28,6 +26,7 @@ Name=soldados humanos blancos mk3
 4 Enlightened Tutor|EMA
 1 Fencing Ace|DDL
 4 Field Marshal|10E
+4 Forbidding Watchtower|10E
 4 Fountain of Cho|MMQ
 2 Gideon's Avenger|M12
 2 Gideon's Lawkeeper|M12
@@ -43,30 +42,32 @@ Name=soldados humanos blancos mk3
 1 Nightguard Patrol|RAV
 1 Odric, Lunarch Marshal|SOI
 1 Odric, Master Tactician|M13
-2 Paragon of New Dawns|M15
+4 Paragon of New Dawns|M15
 1 Phalanx Leader|THS
 1 Plains|10E|1
-1 Plains|10E|2
-1 Plains|10E|3
+2 Plains|10E|2
+2 Plains|10E|3
 1 Plains|10E|4
 1 Plains|3ED|1
 1 Plains|3ED|2
+1 Plains|6ED|1
 2 Plains|6ED|2
+1 Plains|6ED|4
 1 Plains|8ED|1
 1 Plains|8ED|2
 1 Plains|8ED|3
 1 Plains|8ED|4
-1 Plains|9ED|1
+2 Plains|9ED|1
 2 Plains|9ED|2
 2 Plains|9ED|3
-1 Plains|9ED|4
+2 Plains|9ED|4
 5 Plains|ALA|1
 2 Plains|ALA|2
 6 Plains|ALA|3
 3 Plains|ALA|4
 1 Ranger of Eos|ALA
 2 Recruiter of the Guard|CN2
-4 Ring of Three Wishes|M14
+2 Ring of Three Wishes|M14
 1 Shell of the Last Kappa|CHK
 1 Spear of Heliod|THS
 2 Steam Catapult|PO2
@@ -83,7 +84,6 @@ Name=soldados humanos blancos mk3
 1 Aura Fracture|PCY
 1 Aura of Silence|C15
 1 God-Favored General|BNG
-1 Herald of Anafenza|KTK
 1 Ranger of Eos|ALA
 1 Serra's Liturgy|USG
 1 Skyspear Cavalry|JOU
