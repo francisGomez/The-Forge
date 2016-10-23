@@ -5,18 +5,27 @@ Name=soldados blancos mk2
 4 Akroan Skyguard|BNG
 4 Alaborn Zealot|PO2
 1 Always Watching|SOI
+1 Basilisk Collar|WWK
 1 Benalish Commander|PLC
 4 Boros Elite|GTC
 1 Brain in a Jar|SOI
 1 Call to Arms|ICE
+1 Builder's Blessing|AVR
 4 Captain of the Watch|DDO
 1 Cathars' Crusade|C14
 4 Champion of the Parish|DDQ
 1 Commander's Authority|AVR
+2 Common Cause|MMQ
+1 Concerted Effort|RAV
+1 Crossbow Infantry|9ED
 4 Daru Encampment|DDF
+1 Dawnbringer Charioteers|JOU
+1 Dictate of Heliod|C15
 1 Druidic Satchel|C13
+1 Elite Inquisitor|ISD
 4 Emeria, the Sky Ruin|C14
 4 Enlightened Tutor|EMA
+1 Fencing Ace|DDL
 4 Forbidding Watchtower|10E
 4 Fountain of Cho|MMQ
 4 Gideon's Lawkeeper|M12
@@ -30,10 +39,10 @@ Name=soldados blancos mk2
 4 Karoo|C14
 4 Kjeldoran Outpost|VMA
 1 Kyren Toy|MMQ
-1 Launch the Fleet|JOU
-1 Magnifying Glass|SOI
+2 Launch the Fleet|JOU
 1 Mana Web|WTH
 1 Mobilization|C14
+1 Obelisk of Urd|M15
 1 Odric, Lunarch Marshal|SOI
 4 Perimeter Captain|WWK
 1 Phalanx Leader|THS
@@ -43,13 +52,17 @@ Name=soldados blancos mk2
 12 Plains|RTR|5
 1 Planar Collapse|ULG
 4 Raise the Alarm|EMA
-4 Return to the Ranks|M15
+2 Return to the Ranks|M15
+1 Stalwart Shield-Bearers|ROE
 1 Steam Catapult|PO2
 1 Stormfront Riders|DDF
 1 Sword of the Animist|ORI
 4 Thalia's Lieutenant|SOI
+1 Time of Heroes|ROE
 4 Tithe|VIS
 1 Veteran Armorer|MMA
 1 Veteran Armorsmith|DDO
 [Sideboard]
-
+1 Growing Ranks|RTR
+1 Jihad|ARN
+1 Precinct Captain|DDO
