@@ -6,8 +6,10 @@ Name=generacion
 4 Cathars' Crusade|C14
 4 Champion of the Parish|DDQ
 4 Commander's Authority|AVR
+2 Crusader of Odric|M13
 4 Cryptic Gateway|ONS
 2 Emeria Angel|ZEN
+4 Enlightened Tutor|EMA
 2 Evangel of Heliod|THS
 4 Gaea's Cradle|USG
 4 Gavony Township|ISD
@@ -16,9 +18,9 @@ Name=generacion
 2 Hero of Bladehold|MBS
 4 Kjeldoran Outpost|VMA
 4 Launch the Fleet|JOU
-4 Luminarch Ascension|ZEN
+1 Luminarch Ascension|ZEN
 4 Mikaeus, the Lunarch|ISD
-4 Mobilization|C14
+1 Mobilization|C14
 17 Plains|ISD|1
 16 Plains|ISD|2
 11 Plains|ISD|3
@@ -26,11 +28,12 @@ Name=generacion
 4 Raise the Alarm|EMA
 4 Retreat to Emeria|BFZ
 4 Ruin Ghost|WWK
-4 Springjack Shepherd|EVE
+4 Serra's Sanctum|USG
+2 Springjack Shepherd|EVE
 4 Stormfront Riders|DDF
 4 Suture Priest|NPH
 4 Thalia's Lieutenant|SOI
 4 Thraben Doomsayer|DKA
-4 Twilight Drover|DDK
+2 Twilight Drover|DDK
 [Sideboard]
 
