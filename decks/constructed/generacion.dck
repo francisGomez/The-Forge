@@ -22,7 +22,7 @@ Name=generacion
 2 Luminarch Ascension|ZEN
 4 Mikaeus, the Lunarch|ISD
 1 Mobilization|C14
-9 Plains|ISD|1
+17 Plains|ISD|1
 16 Plains|ISD|2
 11 Plains|ISD|3
 4 Precinct Captain|DDO
@@ -36,3 +36,5 @@ Name=generacion
 4 Thalia's Lieutenant|SOI
 4 Thraben Doomsayer|DKA
 2 Twilight Drover|DDK
+[Sideboard]
+
