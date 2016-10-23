@@ -1,0 +1,71 @@
+[metadata]
+Name=poder blanco limitado
+[Main]
+1 Advance Scout|TMP
+1 Aerial Maneuver|GTC
+1 Alabaster Mage|M12
+4 Alaborn Veteran|PO2
+4 Angelic Benediction|M13
+1 Angelic Blessing|TPR
+1 Angelic Page|DDC
+4 Anointer of Champions|ORI
+1 Arashin Foremost|DTK
+4 Aven Squire|M13
+1 Battlewise Valor|THS
+4 Benalish Veteran|M12
+1 Blessing|M14
+1 Bold Defense|ZEN
+4 Boros Elite|GTC
+1 Borrowed Grace|EMN
+1 Break of Day|DKA
+4 Cathedral of War|M13
+4 Daru Encampment|DDF
+4 Fell the Mighty|C14
+1 Fortify|MM2
+4 Genju of the Fields|BOK
+1 Goldnight Commander|AVR
+4 Guardians of Akrasa|M13
+1 Guardians' Pledge|M12
+1 Hold the Line|DDN
+1 Hope and Glory|ULG
+4 Infantry Veteran|DDN
+1 Inspiring Captain|SOI
+4 Knight of Glory|M13
+1 Mantle of Leadership|PLC
+4 Marble Titan|9ED
+4 Meekstone|7ED
+1 Mighty Leap|OGW
+4 Mirror Entity|MM2
+1 Mortal's Ardor|DDO
+1 Mother of Runes|EMA
+1 Myth Realized|DTK
+1 Phalanx Formation|JOU
+1 Restless Apparition|MM2
+1 Righteous Charge|GTC
+1 Rootborn Defenses|RTR
+1 Royal Trooper|S99
+1 Seize the Initiative|SOM
+1 Sensei Golden-Tail|CHK
+1 Show of Valor|M14
+4 Sigiled Paladin|ALA
+1 Skillful Lunge|DKA
+4 Stern Marshal|POR
+1 Strength of Arms|SOI
+1 Testament of Faith|ODY
+4 Vault of the Archangel|DKA
+1 Virtuous Charge|PTK
+1 Wojek Siren|RAV
+1 Zealous Strike|AVR
+[Sideboard]
+4 Akrasan Squire|ALA
+1 Auriok Bladewarden|MRD
+1 Cliffside Lookout|BFZ
+1 Devoted Retainer|CHK
+1 Feat of Resistance|KTK
+4 Forbidding Watchtower|10E
+1 Icatian Priest|DDC
+4 Shambling Vent|BFZ
+1 Swift Justice|DDN
+1 Virtuous Charge|PTK
+1 Warrior's Charge|POR|1
+1 Warrior's Honor|10E
