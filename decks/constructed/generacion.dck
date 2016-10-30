@@ -1,11 +1,13 @@
 [metadata]
 Name=generacion
 [Main]
+4 Blighted Steppe|BFZ
 4 Blossoming Sands|EMA
 2 Captain of the Watch|DDO
 4 Cathars' Crusade|C14
 4 Champion of the Parish|DDQ
 4 Commander's Authority|AVR
+2 Conqueror's Pledge|ZEN
 2 Crusader of Odric|M13
 4 Cryptic Gateway|ONS
 2 Emeria Angel|ZEN
@@ -18,9 +20,10 @@ Name=generacion
 2 Hero of Bladehold|MBS
 4 Kjeldoran Outpost|VMA
 4 Launch the Fleet|JOU
-1 Luminarch Ascension|ZEN
-4 Mikaeus, the Lunarch|ISD
+2 Luminarch Ascension|ZEN
+2 Mikaeus, the Lunarch|ISD
 1 Mobilization|C14
+2 Nomads' Assembly|C14
 17 Plains|ISD|1
 16 Plains|ISD|2
 11 Plains|ISD|3
