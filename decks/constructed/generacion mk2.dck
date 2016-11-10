@@ -1,37 +1,42 @@
 [metadata]
-Name=generacion
+Name=generacion mk2
 [Main]
 4 Blossoming Sands|EMA
 2 Cathars' Crusade|C14
 4 Champion of the Parish|DDQ
 2 Commander's Authority|AVR
-2 Emeria Angel|ZEN
+1 Devout Invocation|M14
+1 Drogskol Cavalry|SOI
 4 Emeria, the Sky Ruin|C14
 4 Gaea's Cradle|USG
 4 Gavony Township|ISD
-2 Growing Ranks|RTR
+4 Growing Ranks|RTR
 4 Hanweir Militia Captain|SOI
-2 Herald of Anafenza|KTK
 2 Hero of Bladehold|MBS
 4 Kjeldoran Outpost|VMA
-4 Launch the Fleet|JOU
-1 Luminarch Ascension|ZEN
+2 Launch the Fleet|JOU
+2 Luminarch Ascension|ZEN
+1 Martial Coup|C14
 2 Mikaeus, the Lunarch|ISD
 1 Mobilization|C14
-4 Plains|ISD|1
-4 Plains|ISD|2
+3 Plains|ISD|1
+6 Plains|ISD|2
 11 Plains|ISD|3
-2 Precinct Captain|DDO
 4 Raise the Alarm|EMA
-2 Retreat to Emeria|BFZ
-4 Ruin Ghost|WWK
+4 Retreat to Emeria|BFZ
+2 Rhys the Redeemed|SHM
+2 Ruin Ghost|WWK
+4 Secure the Wastes|DTK
 2 Springjack Shepherd|EVE
 4 Suture Priest|NPH
 4 Thalia's Lieutenant|SOI
 4 Thraben Doomsayer|DKA
 4 Twilight Drover|DDK
 [Sideboard]
-1 Captain of the Watch|DDO
 1 Cryptic Gateway|ONS
+1 Emeria Angel|ZEN
 1 Evangel of Heliod|THS
+1 Gather the Townsfolk|DDQ
+1 Herald of Anafenza|KTK
+1 Precinct Captain|DDO
 1 Stormfront Riders|DDF
