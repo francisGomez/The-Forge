@@ -1,0 +1,26 @@
+[metadata]
+Name=zombies 1
+[Main]
+4 Cryptbreaker|EMN
+4 Dark Salvation|EMN
+4 Diregraf Colossus|SOI
+4 Dread Wanderer|AKH
+3 Fatal Push|AER
+3 Grasp of Darkness|OGW
+4 Liliana's Mastery|AKH
+3 Lord of the Accursed|AKH
+4 Metallic Mimic|AER
+4 Relentless Dead|SOI
+5 Swamp|AKH|1
+4 Swamp|AKH|2
+7 Swamp|AKH|3
+4 Swamp|AKH|4
+3 Westvale Abbey|SOI
+[Sideboard]
+3 Collective Brutality|EMN
+2 Dispossess|AKH
+1 Fatal Push|AER
+1 Ob Nixilis Reignited|BFZ
+3 Plague Belcher|AKH
+2 Scarab Feast|AKH
+3 Transgress the Mind|BFZ
