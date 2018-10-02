@@ -1,0 +1,141 @@
+[metadata]
+Name=control sphinx
+[Main]
+4 Celestial Colonnade|WWK
+4 Cryptic Command|MM2
+1 Island|KTK|2
+1 Island|KTK|4
+1 Island|M12|4
+1 Island|M13|1
+1 Island|M14|2
+1 Island|M14|3
+1 Island|RTR|2
+2 Island|ZEN|1
+4 Isochron Scepter|EMA
+2 Land Tax|BBD
+4 Mana Leak|MM2
+4 Path to Exile|CFX
+2 Plains|AVR|1
+1 Plains|AVR|2
+1 Plains|ISD|3
+1 Plains|RTR|2
+1 Plains|SOM|2
+3 Remand|MM2
+4 Serum Visions|5DN
+4 Snapcaster Mage|ISD
+3 Spell Snare|DIS
+4 Sphinx's Revelation|RTR
+3 Springjack Pasture|C13
+2 Supreme Verdict|RTR
+[Sideboard]
+1 Ancestral Vision|TSP
+1 Anticipate|BFZ
+4 Arcane Sanctum|C13
+1 Aura Graft|10E
+1 Azorius Charm|RTR
+1 Blessed Alliance|EMN
+1 Boomerang|10E
+1 Carom|DIS
+1 Cast Down|DOM
+1 Cauldron Haze|EVE
+1 Celestial Flare|ORI
+1 Censor|AKH
+1 Choked Estuary|SOI
+1 Compelling Deterrence|SOI
+1 Cursebreak|AVR
+1 Curtain of Light|SOK
+1 Cyclonic Rift|C14
+1 Dampen Thought|MMA
+1 Dawn Charm|PLC
+1 Dazzling Reflection|OGW
+1 Delay|FUT
+1 Devour Flesh|GTC
+1 Disdainful Stroke|KTK
+1 Disenchant|TPR
+1 Disrupting Shoal|BOK
+1 Divine Offering|MBS
+1 Dramatic Rescue|RTR
+1 Drowned Catacomb|M13
+1 Early Frost|5DN
+1 Echoing Calm|DST
+1 Echoing Truth|C15
+1 Elite Arcanist|M14
+1 Essence Scatter|AKH
+1 Extirpate|MMA
+1 Familiar's Ruse|LRW
+1 Fatal Push|AER
+1 Fate Transfer|SHM
+1 Fetid Heath|EXP
+1 Flash Counter|8ED
+1 Force Away|KTK
+1 Funeral Charm|TSB
+1 Geth's Verdict|NPH
+1 Gideon's Reproach|BFZ
+1 Glacial Fortress|M13
+1 Go for the Throat|MBS
+1 Hindering Light|ALA
+1 Hisoka's Defiance|CHK
+1 Horribly Awry|BFZ
+1 Hubris|JOU
+1 Hurkyl's Recall|MM2
+1 Immolating Glare|OGW
+1 Inkmoth Nexus|MBS
+1 Into the Roil|C14
+1 Isolated Chapel|ISD
+1 Jace's Scrutiny|SOI
+1 Kaho, Minamo Historian|SOK
+1 Leave No Trace|RAV
+1 Leyline of Singularity|GPT
+1 Logic Knot|MMA
+1 Muddle the Mixture|RAV
+1 Negate|AER
+1 Nimbus Maze|FUT
+1 Nullify|BNG
+1 Overrule|DDI
+1 Peel from Reality|DDO
+1 Peer Through Depths|MMA
+1 Pollen Lullaby|COM
+1 Psychic Barrier|NPH
+1 Psychic Rebuttal|ORI
+1 Puncturing Light|SOI
+1 Reality Shift|UGF
+1 Redirect|M13
+1 Refocus|FRF
+1 Remove Soul|10E
+1 Reprisal|JOU
+1 Restoration Angel|AVR
+1 Revolutionary Rebuff|KLD
+1 Rune Snag|CSP
+1 Shadow of Doubt|RAV
+1 Shambling Vent|BFZ
+1 Shattering Blow|GTC
+1 Silumgar's Scorn|DTK
+1 Snapback|TSP
+1 Soul's Grace|ALA
+1 Spell Rupture|GTC
+1 Spell Snare|DIS
+1 Spell Syphon|SHM
+1 Squelch|CHK
+1 Stream of Consciousness|BOK
+1 Stymied Hopes|THS
+1 Sundering Growth|RTR
+1 Sunken Hollow|EXP
+1 Sunken Ruins|EXP
+1 Surgical Extraction|MM2
+4 Tasigur, the Golden Fang|FRF
+3 Tectonic Edge|WWK
+1 Terminate|C17
+1 Thassa's Rebuff|BNG
+1 Think Twice|ISD
+1 Trickbind|TSP
+1 Truth or Tale|TSP
+1 Turn the Tide|CNS
+1 Uncovered Clues|DGM
+1 Unsubstantiate|EMN
+1 Valorous Stance|FRF
+1 Vision Skeins|C13
+1 Voyage's End|THS
+1 Wall of Omens|ROE
+1 Warping Wail|OGW
+1 Whirlpool Whelm|COM
+1 Winds of Rebuke|AKH
