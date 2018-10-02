@@ -1,0 +1,187 @@
+[metadata]
+Name=exilio blanco mk1 modern
+[Main]
+4 Citanul Flute|10E
+4 Conjurer's Closet|C13
+2 Eerie Interlude|SOI
+4 Emeria, the Sky Ruin|C14
+1 Geist-Honored Monk|C14
+4 Isochron Scepter|EMA
+1 Knight-Captain of Eos|ALA
+4 Kor Cartographer|DDI
+4 Long Road Home|EMN
+1 Meadowboon|MMA
+4 Mistveil Plains|SHM
+1 Pentarch Paladin|TSP
+4 Plains|C14|1
+4 Plains|C14|2
+4 Plains|C14|3
+6 Plains|C14|4
+1 Riders of Gavony|AVR
+2 Soul's Attendant|ROE
+4 Stonehorn Dignitary|M12
+1 Sunblast Angel|C14
+1 Treasure Hunter|10E
+3 Wall of Omens|EMA
+1 War Priest of Thune|EMA
+1 Wingmate Roc|KTK
+[Sideboard]
+1 Aegis Angel|W16
+1 Anathemancer|ARB
+1 Angel of Condemnation|HOU
+1 Angel of Glory's Rise|AVR
+1 Angel of Serenity|C15
+1 Aquastrand Spider|MM2
+1 Archaeomancer|DDM
+1 Archangel of Thune|M14
+1 Attended Knight|M13
+1 Avalanche Riders|TSB
+1 Aven Cloudchaser|10E
+1 Aven Riftwatcher|EMA
+1 Bala Ged Scorpion|ROE
+1 Balustrade Spy|GTC
+1 Big Game Hunter|PLC
+1 Blade Splicer|NPH
+1 Bloodhall Priest|EMN
+1 Bloodhunter Bat|M13
+1 Buried Ruin|C14
+1 Cadaver Imp|DDP
+1 Calciderm|EMA
+1 Captain of the Watch|DDO
+1 Carven Caryatid|RAV
+1 Cathedral Sanctifier|DDQ
+1 Cloudblazer|KLD
+1 Cloudchaser Kestrel|TSP
+1 Cloudshift|AVR
+1 Coiling Oracle|C15
+1 Conclave Phalanx|MM2
+1 Courageous Outrider|EMN
+1 Cytoplast Manipulator|DIS
+1 Deadeye Harpooner|AER
+1 Desecrator Hag|COM
+1 Duergar Hedge-Mage|COM
+1 Eldrazi Displacer|OGW
+1 Elvish Pioneer|8ED
+1 Emeria Shepherd|BFZ
+1 Enthralling Victor|ORI
+1 Entomber Exarch|NPH
+1 Essence Flux|SOI
+1 Eternal Witness|C15
+1 Evangel of Heliod|THS
+1 Fabricate|HOP
+1 Faerie Mechanist|MM2
+1 Farhaven Elf|C14
+2 Felidar Guardian|AER
+1 Fiend Hunter|DDQ
+1 Final-Sting Faerie|MOR
+1 Flickerform|C13
+1 Flickerwisp|C14
+1 Galepowder Mage|DDI
+1 Geralf's Messenger|DKA
+1 Ghostly Flicker|AVR
+1 Ghostway|GPT
+1 Gibbering Fiend|SOI
+1 Glamer Spinners|SHM
+1 Glimmerpoint Stag|EMA
+1 Glint-Nest Crane|KLD
+1 Gonti, Lord of Luxury|KLD
+1 Gravedigger|AKH
+1 Gwyllion Hedge-Mage|COM
+1 Hammerheim Deadeye|MMA
+1 Harmonic Sliver|TSP
+1 Heliod's Pilgrim|M15
+1 Heron's Grace Champion|EMN
+1 Hooded Assassin|FRF
+1 Huntmaster of the Fells|DKA
+1 Ichor Rats|SOM
+1 Identity Thief|EMN
+1 Illusionist's Stratagem|AER
+1 Inquisitor Exarch|NPH
+1 Invasive Species|M15
+1 Ironclad Slayer|EMN
+1 Keldon Marauders|EMA
+1 Kemuri-Onna|SOK
+1 Kessig Malcontents|AVR
+1 Kiri-Onna|SOK
+1 Legion's Initiative|DGM
+1 Liliana's Specter|CNS
+1 Linvala, the Preserver|OGW
+1 Loam Larva|OGW
+1 Lone Missionary|DDN
+1 Lotus-Eye Mystics|FRF
+1 Loxodon Hierarch|DDH
+1 Magus of the Disk|TSP
+1 Manglehorn|AKH
+1 Manic Vandal|M12
+1 Master Splicer|NPH
+1 Master Thief|M12
+1 Mausoleum Turnkey|RAV
+1 Mistmeadow Witch|C13
+1 Mnemonic Wall|C13
+1 Mogg War Marshal|EMA
+2 Moriok Scavenger|MRD
+1 Murderous Redcap|MMA
+1 Nephalia Smuggler|DDQ
+1 Nimble Innovator|KLD
+1 Obstinate Baloth|M11
+1 Ogre Gatecrasher|DIS
+1 Otherworldly Journey|MM2
+1 Oxidda Scrapmelter|SOM
+1 Pia and Kiran Nalaar|ORI
+1 Pierce Strider|MBS
+1 Pit Keeper|TSP
+1 Possessed Skaab|ORI
+1 Precursor Golem|MM2
+1 Puppeteer Clique|MM2
+1 Quarry Colossus|JOU
+1 Quicksmith Rebel|AER
+1 Ravenous Rats|DDJ
+1 Razor Hippogriff|C13
+1 Reclamation Sage|C14
+1 Reclusive Artificer|ORI
+1 Renegade Rallier|AER
+1 Resolute Archangel|M15
+1 Restoration Angel|AVR
+1 Reveillark|MMA
+1 Rhox Meditant|CFX
+1 Ruin Ghost|WWK
+1 Rustspore Ram|MRD
+1 Sage Aven|9ED
+1 Sanctum Gargoyle|MMA
+1 Sanity Gnawers|ARB
+1 Scion Summoner|OGW
+1 Sea Gate Oracle|C14
+1 Seht's Tiger|FUT
+1 Setessan Starbreaker|BNG
+1 Shivan Sand-Mage|FUT
+1 Siege Rhino|KTK
+1 Sin Collector|DGM
+1 Singe-Mind Ogre|ARB
+1 Skinrender|SOM
+1 Slayer of the Wicked|DDQ
+1 Slithermuse|MOR
+1 Solemn Simulacrum|C15
+1 Sower of Temptation|LRW
+1 Sparkmage Apprentice|DDN
+1 Springjack Shepherd|EVE
+1 Stalking Yeti|CSP
+1 Stonecloaker|DDN
+1 Supernatural Stamina|AKH
+1 Sylvan Ranger|C14
+1 Thraben Inspector|SOI
+1 Timely Hordemate|KTK
+1 Tormentor Exarch|NPH
+1 Triad of Fates|THS
+1 Trostani, Selesnya's Voice|RTR
+1 Turn to Mist|SHM
+1 Twilight Shepherd|C14
+1 Urbis Protector|GTC
+1 Vanish into Memory|DDI
+1 Venser, the Sojourner|DDI
+1 Village Bell-Ringer|DDQ
+1 Vizkopa Confessor|GTC
+1 Voidstone Gargoyle|PLC
+1 Waning Wurm|PLC
+1 Warren Pilferers|MMA
+1 Weaponcraft Enthusiast|KLD
+1 Wispmare|LRW

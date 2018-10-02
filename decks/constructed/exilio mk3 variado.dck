@@ -1,0 +1,301 @@
+[metadata]
+Name=exilio mk3 variado
+[Main]
+2 Acidic Slime|C15
+1 Altar of the Brood|UGF
+4 Canopy Vista|EXP
+1 Cathars' Crusade|C14
+1 Champion of Lambholt|AVR
+2 Citanul Flute|10E
+3 Conjurer's Closet|C13
+4 Eerie Interlude|SOI
+4 Emeria, the Sky Ruin|C14
+4 Eternal Witness|C15
+2 Farhaven Elf|C14
+1 Felidar Guardian|AER
+1 Knight-Captain of Eos|ALA
+2 Kor Cartographer|DDI
+1 Pentarch Paladin|TSP
+2 Plains|C14|1
+2 Plains|C14|2
+1 Plains|C14|3
+1 Plains|C14|4
+2 Prairie Stream|EXP
+1 Purphoros, God of the Forge|THS
+1 Restoration Angel|AVR
+2 Sacred Foundry|EXP
+2 Soul's Attendant|ROE
+4 Stonehorn Dignitary|M12
+1 Sunblast Angel|C14
+2 Sylvan Scrying|BFZ
+4 Temple Garden|EXP
+1 Venser, the Sojourner|DDI
+4 Wall of Omens|EMA
+1 Wingmate Roc|KTK
+[Sideboard]
+1 Aegis Angel|W16
+1 Agent of Erebos|JOU
+1 Anafenza, Kin-Tree Spirit|DTK
+1 Anathemancer|ARB
+1 Angel of Condemnation|HOU
+1 Angel of Glory's Rise|AVR
+1 Angel of Serenity|C15
+1 Aquastrand Spider|MM2
+1 Archaeomancer|DDM
+1 Archangel of Thune|M14
+1 Attended Knight|M13
+1 Autumn's Veil|M12
+2 Avalanche Riders|TSB
+1 Aven Cloudchaser|10E
+1 Aven Riftwatcher|EMA
+1 Bala Ged Scorpion|ROE
+1 Balustrade Spy|GTC
+1 Bant Panorama|C13
+1 Big Game Hunter|PLC
+1 Blade Splicer|NPH
+1 Bloodhall Priest|EMN
+1 Bloodhunter Bat|M13
+1 Brutalizer Exarch|PC2
+1 Buried Ruin|C14
+1 Cadaver Imp|DDP
+1 Calciderm|EMA
+1 Captain of the Watch|DDO
+1 Carven Caryatid|RAV
+1 Cathedral Sanctifier|DDQ
+1 Chasm Guide|BFZ
+1 Cloudblazer|KLD
+1 Cloudchaser Kestrel|TSP
+3 Cloudshift|AVR
+1 Coiling Oracle|C15
+1 Conclave Phalanx|MM2
+1 Congregation at Dawn|RAV
+1 Courageous Outrider|EMN
+1 Cream of the Crop|MOR
+1 Cytoplast Manipulator|DIS
+1 Cytoplast Root-Kin|MM2
+2 Dawn Charm|PLC
+1 Deadeye Harpooner|AER
+1 Deadwood Treefolk|C13
+1 Deathrender|CNS
+1 Desecrator Hag|COM
+1 Diabolic Tutor|M14
+1 Dire Undercurrents|SHM
+1 Drift of Phantasms|RAV
+1 Duergar Hedge-Mage|COM
+1 Eldrazi Displacer|OGW
+1 Electropotence|ZEN
+1 Elvish Harbinger|EVG
+1 Elvish Pioneer|8ED
+1 Emeria Shepherd|BFZ
+1 Enthralling Victor|ORI
+1 Entomber Exarch|NPH
+1 Esper Panorama|C13
+1 Essence Flux|SOI
+1 Essence Warden|C14
+1 Evangel of Heliod|THS
+1 Evolution Charm|PLC
+1 Extractor Demon|C15
+1 Fabricate|HOP
+1 Faerie Mechanist|MM2
+1 Fauna Shaman|M11
+3 Felidar Guardian|AER
+1 Felidar Sovereign|BFZ
+1 Fiend Hunter|DDQ
+1 Final-Sting Faerie|MOR
+1 Firemantle Mage|BFZ
+1 Firemaw Kavu|TSP
+1 Flameshadow Conjuring|ORI
+1 Fleshwrither|FUT
+1 Flickerform|C13
+1 Flickerwisp|C14
+1 Foe-Razer Regent|DTK
+1 Forgeborn Oreads|JOU
+1 Frontier Siege|FRF
+1 Galepowder Mage|DDI
+1 Geist-Honored Monk|C14
+1 Genesis Chamber|DST
+1 Geralf's Messenger|DKA
+1 Ghostly Flicker|AVR
+1 Ghostway|GPT
+1 Giant Oyster|TSB
+1 Gibbering Fiend|SOI
+1 Gladehart Cavalry|OGW
+1 Glamer Spinners|SHM
+1 Glimmerpoint Stag|EMA
+1 Glint-Nest Crane|KLD
+2 Godless Shrine|EXP
+1 Gonti, Lord of Luxury|KLD
+1 Grave Titan|C14
+1 Gravedigger|AKH
+1 Gwyllion Hedge-Mage|COM
+1 Gyre Sage|GTC
+1 Halimar Excavator|WWK
+1 Hallowed Fountain|EXP
+1 Hamletback Goliath|C15
+1 Hammerheim Deadeye|MMA
+1 Harmonic Sliver|TSP
+1 Heliod's Pilgrim|M15
+1 Hero of Goma Fada|BFZ
+1 Heron's Grace Champion|EMN
+1 Hooded Assassin|FRF
+1 Huntmaster of the Fells|DKA
+1 Ichor Rats|SOM
+1 Identity Thief|EMN
+1 Illusionist's Stratagem|AER
+1 Impact Tremors|DTK
+1 Inferno Titan|C15
+1 Inquisitor Exarch|NPH
+1 Invasive Species|M15
+1 Ironclad Slayer|EMN
+1 Irrigated Farmland|AKH
+1 Isochron Scepter|EMA
+1 Kaho, Minamo Historian|SOK
+1 Keldon Marauders|EMA
+1 Kemuri-Onna|SOK
+1 Kessig Malcontents|AVR
+1 Kiki-Jiki, Mirror Breaker|MM2
+1 Kiri-Onna|SOK
+1 Lantern Scout|BFZ
+1 Legion's Initiative|DGM
+1 Liliana Vess|M15
+1 Liliana's Specter|CNS
+1 Linvala, the Preserver|OGW
+1 Loam Larva|OGW
+1 Lone Missionary|DDN
+1 Long Road Home|EMN
+1 Lotus-Eye Mystics|FRF
+1 Loxodon Hierarch|DDH
+1 Magus of the Disk|TSP
+1 Makindi Patrol|BFZ
+1 Manglehorn|AKH
+1 Manic Vandal|M12
+1 Massacre Wurm|MBS
+1 Master Splicer|NPH
+1 Master Thief|M12
+1 Mausoleum Turnkey|RAV
+1 Meadowboon|MMA
+1 Merieke Ri Berit|TSB
+1 Mimic Vat|SOM
+2 Minion Reflector|ALA
+1 Mirage Mirror|HOU
+1 Mirror of the Forebears|C17
+1 Mirrorworks|MBS
+1 Mistmeadow Witch|C13
+2 Mistveil Plains|SHM
+1 Mnemonic Wall|C13
+1 Moriok Scavenger|MRD
+1 Muddle the Mixture|RAV
+1 Murderous Redcap|MMA
+1 Nephalia Smuggler|DDQ
+1 Nevermaker|MOR
+1 Nimble Innovator|KLD
+1 Nimbus Maze|FUT
+1 Ninth Bridge Patrol|KLD
+1 Obstinate Baloth|M11
+1 Ogre Gatecrasher|DIS
+1 Ondu Champion|BFZ
+1 Orc Sureshot|FRF
+1 Otherworldly Journey|MM2
+1 Outpost Siege|FRF
+1 Oxidda Scrapmelter|SOM
+1 Pandemonium|TPR
+1 Pia and Kiran Nalaar|ORI
+1 Pierce Strider|MBS
+1 Pit Keeper|TSP
+1 Possessed Skaab|ORI
+1 Precursor Golem|MM2
+1 Prototype Portal|SOM
+1 Puppeteer Clique|MM2
+1 Quarry Colossus|JOU
+1 Quicksmith Rebel|AER
+1 Ravenous Rats|DDJ
+1 Razor Hippogriff|C13
+1 Reaper King|SHM
+1 Rebuff the Wicked|PLC
+1 Reclamation Sage|C14
+1 Reclusive Artificer|ORI
+1 Renegade Doppelganger|ROE
+1 Renegade Krasis|DGM
+1 Renegade Rallier|AER
+1 Resolute Archangel|M15
+1 Resolute Blademaster|BFZ
+1 Reveillark|MMA
+1 Rhox Meditant|CFX
+1 Riders of Gavony|AVR
+1 Ruin Ghost|WWK
+1 Rune-Scarred Demon|IMA
+1 Rustspore Ram|MRD
+1 Sage Aven|9ED
+1 Sage's Row Denizen|GTC
+1 Saheeli Rai|KLD
+1 Sanctum Gargoyle|MMA
+1 Sanity Gnawers|ARB
+1 Scattered Groves|AKH
+1 Scion Summoner|OGW
+1 Sculpting Steel|10E
+1 Sea Gate Oracle|C14
+1 Seht's Tiger|FUT
+1 Selesnya Charm|C13
+1 Setessan Starbreaker|BNG
+1 Shivan Sand-Mage|FUT
+1 Shred Memory|RAV
+1 Siege Dragon|M15
+1 Siege Rhino|KTK
+1 Signal the Clans|GTC
+1 Simic Manipulator|GTC
+1 Sin Collector|DGM
+1 Singe-Mind Ogre|ARB
+1 Skinrender|SOM
+1 Skysovereign, Consul Flagship|KLD
+1 Slayer of the Wicked|DDQ
+1 Slithermuse|MOR
+1 Solemn Simulacrum|C15
+1 Soul Foundry|MRD
+1 Soul of the Harvest|W16
+1 Sower of Temptation|LRW
+1 Sparkmage Apprentice|DDN
+1 Sphinx Summoner|CFX
+1 Spirit Bonds|M15
+1 Spitebellows|MM2
+1 Springjack Shepherd|EVE
+1 Stalking Yeti|CSP
+1 Stonecloaker|DDN
+1 Stormfront Riders|DDF
+1 Strionic Resonator|M14
+1 Subterranean Shambler|TSP
+1 Sun Titan|C15
+1 Sundering Titan|FVR
+1 Sunpetal Grove|M13
+1 Supernatural Stamina|AKH
+1 Sylvan Primordial|GTC
+1 Sylvan Ranger|C14
+1 Tezzeret the Seeker|MM2
+1 Tezzeret's Betrayal|AER
+1 Thassa's Devourer|JOU
+1 Thought-Knot Seer|OGW
+1 Thoughtrender Lamia|JOU
+1 Thraben Inspector|SOI
+1 Thragtusk|M13
+1 Timely Hordemate|KTK
+1 Tormentor Exarch|NPH
+1 Treasure Hunter|10E
+1 Triad of Fates|THS
+1 Trostani, Selesnya's Voice|RTR
+1 Tuktuk Scrapper|WWK
+1 Turn to Mist|SHM
+1 Twilight Shepherd|C14
+1 Uncage the Menagerie|HOU
+1 Urbis Protector|GTC
+1 Vanish into Memory|DDI
+1 Veteran Motorist|KLD
+1 Village Bell-Ringer|DDQ
+1 Vizkopa Confessor|GTC
+1 Voidstone Gargoyle|PLC
+1 Walker of the Grove|C13
+1 Waning Wurm|PLC
+1 Warren Pilferers|MMA
+1 Warstorm Surge|C15
+1 Wayward Servant|AKH
+1 Where Ancients Tread|C13
+1 Wispmare|LRW
+1 Yisan, the Wanderer Bard|M15
