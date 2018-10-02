@@ -1,0 +1,523 @@
+[metadata]
+Name=vida mk2
+[Main]
+4 Ajani's Pridemate|M15
+4 Alhammarret's Archive|ORI
+4 Angelic Accord|M14
+4 Archangel of Thune|M14
+1 Ayli, Eternal Pilgrim|OGW
+4 Blood Tribute|ZEN
+4 Blossoming Sands|EMA
+1 Bow of Nylea|THS
+4 Cliffhaven Vampire|OGW
+4 Cradle of Vitality|C13
+4 Defiant Bloodlord|BFZ
+4 Drana's Emissary|BFZ
+4 Exquisite Blood|AVR
+1 Felidar Sovereign|BFZ
+1 Forest|THS|1
+1 Forest|THS|2
+1 Forest|THS|3
+1 Forest|THS|4
+4 Ghost-Lit Redeemer|SOK
+4 Graypelt Refuge|DDP
+4 Heroes Remembered|PLC
+4 Jungle Hollow|EMA
+4 Kabira Crossroads|DDF
+4 Kitchen Finks|MMA
+4 Luminous Wake|ROE
+4 Malakir Familiar|BFZ
+4 Nyx-Fleece Ram|JOU
+4 Oracle of Nectars|SHM
+4 Orzhova, the Church of Deals|GPT
+1 Path of Bravery|M14
+1 Perimeter Captain|WWK
+6 Plains|THS|1
+6 Plains|THS|2
+5 Plains|THS|3
+15 Plains|THS|4
+1 Pride Guardian|CNS
+1 Resplendent Mentor|SHM
+4 Rhox Faithmender|M13
+4 Sandsteppe Citadel|KTK
+4 Sanguine Bond|C13
+1 Sapling of Colfenor|EVE
+4 Scoured Barrens|EMA
+1 Soul Warden|HOP
+1 Soul's Attendant|ROE
+4 Soulmender|M15
+4 Souls of the Faultless|GPT
+4 Spike Feeder|TPR
+4 Sunbond|BNG
+8 Swamp|THS|1
+4 Swamp|THS|2
+4 Swamp|THS|3
+3 Swamp|THS|4
+1 True Conviction|C14
+4 Vault of the Archangel|DKA
+4 Vizkopa Guildmage|C13
+4 Wall of Limbs|M15
+4 Wall of Reverence|C13
+4 Well of Lost Dreams|C13
+[Sideboard]
+1 Abattoir Ghoul|DDQ
+1 Absorb Vis|MMA
+1 Abuna's Chant|5DN
+1 Abundant Maw|EMN
+1 Abzan Battle Priest|KTK
+1 Abzan Guide|KTK
+1 Abzan Kin-Guard|FRF
+1 Ad Nauseam|ALA
+1 Aerial Responder|KLD
+1 Aetherborn Marauder|KLD
+1 Aetherflux Reservoir|KLD
+1 Ageless Entity|DDH
+1 Agent of Masks|GPT
+1 Airdrop Aeronauts|AER
+1 Ajani Goldmane|M11
+1 Ajani Steadfast|M15
+1 Ajani's Mantra|DDH
+1 Ajani's Sunstriker|CNS
+1 Alabaster Mage|M12
+1 Alive // Well|DGM
+1 Ambition's Cost|C15
+1 Ancestor's Chosen|10E
+1 Angel of Invention|KLD
+1 Angel of Mercy|DDC
+1 Angel of Renewal|BFZ
+1 Angel's Mercy|M13
+1 Angelheart Vial|ROE
+1 Angelic Chorus|10E
+1 Angelic Skirmisher|GTC
+1 Anguished Unmaking|SOI
+1 Anodet Lurker|5DN
+1 Apothecary Geist|SOI
+1 Arashin Cleric|FRF
+1 Arbiter of Knollridge|C15
+1 Arborback Stomper|KLD
+1 Archangel's Light|DKA
+1 Archon of Redemption|WWK
+1 Arctic Nishoba|CSP
+1 Athreos, God of Passage|JOU
+1 Augury Adept|C13
+1 Auriok Champion|5DN
+1 Authority of the Consuls|KLD
+1 Aven Battle Priest|ORI
+1 Aven Riftwatcher|EMA
+1 Azorius Herald|C13
+1 Balefire Liege|HOP
+1 Baleful Ammit|AKH
+1 Baneslayer Angel|V15
+1 Batterskull|NPH
+1 Battlegrace Angel|MM2
+1 Beacon of Immortality|10E
+1 Behemoth Sledge|C13
+1 Bitter Revelation|KTK
+1 Bleak Coven Vampires|SOM
+1 Blessed Alliance|EMN
+1 Blessed Reversal|8ED
+1 Blightsoil Druid|EMA
+1 Blood Baron of Vizkopa|DGM
+1 Blood Clock|SOK
+1 Blood Host|M15
+1 Blood Scrivener|DGM
+1 Blood Tithe|M11
+1 Bloodbond Vampire|BFZ
+1 Bloodhunter Bat|M13
+1 Bloodrite Invoker|DDP
+1 Blunt the Assault|SOM
+1 Bond of Agony|DIS
+1 Bontu's Monument|AKH
+1 Boon Reflection|SHM
+1 Bounteous Kirin|SOK
+1 Bountiful Harvest|M13
+1 Brindle Boar|M14
+1 Bringer of the Black Dawn|5DN
+1 Brutal Hordechief|FRF
+1 Campaign of Vengeance|EMN
+1 Captured Sunlight|ARB
+1 Caravan Hurda|ZEN
+1 Cartouche of Ambition|AKH
+1 Cathedral Sanctifier|DDQ
+1 Celestial Mantle|ZEN
+1 Centaur Healer|RTR
+1 Certain Death|EMN
+1 Chalice of Life|DKA
+1 Champion of Arashin|DTK
+1 Chancellor of the Dross|NPH
+1 Changeling Hero|LRW
+1 Chant of Vitu-Ghazi|RAV
+1 Chaplain's Blessing|SOI
+1 Chastise|9ED
+1 Clearwater Goblet|5DN
+1 Cliffrunner Behemoth|CFX
+1 Cloudblazer|KLD
+1 Conclave Phalanx|MM2
+1 Congregate|M15
+1 Consume Spirit|M12
+1 Consuming Vapors|ROE
+1 Contaminated Ground|GTC
+1 Corrupt|M14
+1 Corrupted Roots|CFX
+1 Courier Griffin|BFZ
+1 Courser of Kruphix|BNG
+1 Covenant of Blood|M15
+1 Creakwood Ghoul|EVE
+1 Crovax, Ascendant Hero|PLC
+1 Cruel Ultimatum|C13
+1 Crypt Incursion|DGM
+1 Cursebreak|AVR
+1 Cut // Ribbons|AKH
+1 Cutthroat Maneuver|THS
+1 Daggerdrome Imp|RTR
+1 Dark Confidant|MM2
+1 Dark Tutelage|M11
+1 Dawnbringer Charioteers|JOU
+1 Dawnglow Infusion|SHM
+1 Dawnstrike Paladin|DDL
+1 Daxos of Meletis|THS
+1 Daybreak Coronet|MM2
+1 Dazzling Reflection|OGW
+1 Death of a Thousand Stings|SOK
+1 Death's Caress|DKA
+1 Debt to the Deathless|DGM
+1 Deepwood Ghoul|8ED
+1 Devour Flesh|GTC
+1 Disciple of Bolas|C14
+1 Disciple of Griselbrand|C13
+1 Divine Congregation|TSP
+1 Divine Favor|M15
+1 Divine Offering|MBS
+1 Divinity of Pride|C13
+1 Doomgape|DDJ
+1 Dosan's Oldest Chant|SOK
+1 Douse in Gloom|FRF
+1 Dovin Baan|KLD
+1 Dragonlord Dromoka|DTK
+1 Drain the Well|EVE
+1 Drogskol Cavalry|SOI
+1 Drogskol Reaver|DKA
+1 Dromad Purebred|RAV
+1 Dryad's Caress|RAV
+1 Duskmantle Seer|GTC
+1 Dwynen, Gilt-Leaf Daen|ORI
+1 Elgaud Inquisitor|DKA
+1 Elixir of Immortality|M14
+1 Elspeth Tirel|SOM
+1 Enatu Golem|ROE
+1 Engulfing Slagwurm|SOM
+1 Ephara's Radiance|BNG
+1 Erebos, God of the Dead|THS
+1 Escaped Null|ROE
+1 Essence Depleter|OGW
+1 Essence Drain|M13
+1 Essence Extraction|KLD
+1 Essence Feed|ROE
+1 Essence Harvest|AVR
+1 Essence Warden|C14
+1 Eternal Thirst|M15
+1 Eternity Vessel|ZEN
+1 Etherwrought Page|ARB
+1 Faith's Fetters|EMA
+1 Faithbearer Paladin|EMN
+1 Falkenrath Noble|DDQ
+1 Fall of the Gavel|RTR
+1 Fangren Marauder|MBS
+1 Farbog Revenant|SOI
+1 Favor of the Woods|DKA
+1 Feast of Blood|ZEN
+1 Feed the Clan|KTK
+1 Feudkiller's Verdict|MMA
+1 Fiendslayer Paladin|M14
+1 Filigree Angel|C13
+1 Filigree Familiar|KLD
+1 Firemane Angel|DDH
+1 Firemane Avenger|GTC
+1 First Response|M15
+1 Flensermite|MBS
+1 Font of Vigor|JOU
+1 Fracturing Gust|V14
+1 From Under the Floorboards|SOI
+1 Fruit of the First Tree|FRF
+1 Fumigate|KLD
+1 Genju of the Fields|BOK
+1 Ghost Council of Orzhova|MM2
+1 Gift of Orzhova|GTC
+1 Gift of Paradise|AKH
+1 Gifted Aetherborn|AER
+1 Gisela, the Broken Blade|EMN
+1 Gladehart Cavalry|OGW
+1 Gnaw to the Bone|ISD
+1 Goldnight Redeemer|DDQ
+1 Graf Mole|SOI
+1 Graveborn Muse|10E
+1 Gray Merchant of Asphodel|C14
+1 Grazing Gladehart|DDP
+1 Griselbrand|AVR
+2 Guardian of Cloverdell|LRW
+1 Hagra Diabolist|ZEN
+1 Harsh Sustenance|FRF
+1 Heal the Scars|LRW
+1 Healer of the Pride|M13
+1 Healing Hands|ORI
+1 Heroes' Reunion|RTR
+1 Heron's Grace Champion|EMN
+1 Hide // Seek|DIS
+1 Highway Robber|DDM
+1 Hoarder's Greed|LRW
+1 Hollowhenge Scavenger|ISD
+1 Honden of Cleansing Fire|EMA
+1 Honor's Reward|FRF
+1 Hopeful Eidolon|THS
+1 Horizon Chimera|THS
+1 Hunters' Feast|M11
+1 Huntmaster of the Fells|DKA
+1 Inquisitor Exarch|NPH
+1 Insatiable Harpy|THS
+1 Invincible Hymn|ALA
+1 Jaddi Lifestrider|ROE
+1 Jaddi Offshoot|BFZ
+1 Jedit's Dragoons|DDI
+1 Joyous Respite|CHK
+1 Kalastria Nightwatch|BFZ
+1 Kalitas, Traitor of Ghet|OGW
+1 Kambal, Consul of Allocation|KLD
+1 Kami of the Honored Dead|BOK
+1 Kavu Predator|DDL
+1 Kheru Dreadmaw|KTK
+1 Kiss of the Amesha|ALA
+1 Kjeldoran Gargoyle|CSP
+1 Knight of Meadowgrain|DDG
+1 Kokusho, the Evening Star|MMA
+1 Landbind Ritual|ZEN
+1 Leyline of Vitality|M11
+1 Lifegift|BOK
+1 Lifelink|M12
+1 Lightform|FRF
+1 Lightkeeper of Emeria|COM
+1 Lightning Helix|DDN
+1 Linvala, the Preserver|OGW
+1 Living Destiny|ROE
+1 Lone Missionary|DDN
+1 Lone Rider|EMN
+1 Loxodon Hierarch|DDH
+1 Luminescent Rain|MOR
+1 Luxa River Shrine|AKH
+1 Malakir Bloodwitch|ZEN
+1 Malakir Soothsayer|OGW
+2 Maralen of the Mornsong|MOR
+1 Marble Chalice|ALA
+1 Mark of the Vampire|M14
+1 Markov Crusader|EMN
+1 Markov Patrician|ISD
+1 Marrow Chomper|ARB
+1 Mastery of the Unseen|UGF
+1 Maw of the Mire|ISD
+1 Mayael's Aria|ARB
+1 Meditation Puzzle|M15
+1 Minions' Murmurs|FUT
+1 Mistmeadow Skulk|SHM
+1 Momentous Fall|ROE
+1 Moonlight Bargain|RAV
+1 Morsel Theft|MOR
+1 Murderous Betrayal|8ED
+1 Mycoid Shepherd|ARB
+1 Mycologist|PLC
+1 Narrow Escape|DDE
+1 Natural Spring|10E
+1 Nearheath Chaplain|SOI
+1 Nearheath Pilgrim|AVR
+1 Needlebite Trap|ZEN
+1 Nip Gwyllion|EVE
+1 Nirkana Assassin|BFZ
+1 Nissa Revane|ZEN
+1 Nissa's Renewal|BFZ
+1 Nissa's Revelation|ORI
+1 Nissa, Nature's Artisan|KLD
+1 Noble Purpose|8ED
+1 Nourish|DST
+1 Nourishing Shoal|BOK
+1 Noxious Gearhulk|KLD
+1 Nylea's Disciple|THS
+1 Obelisk of Alara|CFX
+1 Obstinate Baloth|M11
+1 Obzedat, Ghost Council|GTC
+1 Odric, Lunarch Marshal|SOI
+1 Offering to Asha|ARB
+1 Ojutai Exemplars|DTK
+1 Ojutai's Command|DTK
+1 Ondu Cleric|ZEN
+1 Ondu War Cleric|OGW
+1 Ongoing Investigation|SOI
+1 Orchard Warden|MOR
+1 Ordeal of Heliod|THS
+1 Oreskos Sun Guide|BNG
+1 Orzhov Guildmage|COM
+1 Oust|DDP
+1 Pain's Reward|SOK
+1 Palace Siege|FRF
+1 Paladin of Prahv|DDG
+1 Paradise Plume|TSP
+1 Patron of the Kitsune|BOK
+1 Peace Strider|CNS
+1 Pelakka Wurm|MM2
+1 Phosphorescent Feast|EVE
+2 Phyrexian Arena|C15
+1 Phyrexian Metamorph|NPH
+1 Pious Evangel|SOI
+1 Pious Kitsune|CHK
+1 Polluted Bonds|SHM
+1 Prakhata Pillar-Bug|KLD
+1 Predator's Rapport|GTC
+1 Presence of the Wise|SOK
+1 Primal Command|DDP
+1 Primeval Bounty|M14
+1 Pristine Talisman|C14
+1 Promise of Power|C14
+1 Proper Burial|DIS
+1 Pulse of Murasa|OGW
+1 Pulse of the Fields|DST
+1 Punish Ignorance|ALA
+1 Purge the Profane|GTC
+1 Purity|LRW
+1 Putrid Leech|DDM
+1 Quiet Disrepair|PC2
+1 Raiders' Spoils|KTK
+1 Rakdos Ragemutt|RTR
+1 Razor Hippogriff|C13
+1 Ready // Willing|DGM
+1 Recumbent Bliss|DDH
+1 Regal Caracal|AKH
+1 Renewed Faith|VMA
+1 Reservoir Walker|AER
+1 Rest for the Weary|WWK
+1 Resupply|DTK
+1 Retreat to Hagra|BFZ
+1 Reviving Dose|10E
+1 Rhox Bodyguard|CFX
+1 Rhox War Monk|ALA
+1 Rhys the Exiled|MOR
+1 Ribbons of Night|RAV
+1 Riot Control|DGM
+1 Roiling Horror|PLC
+1 Rotfeaster Maggot|M15
+1 Ruin Processor|BFZ
+1 Rune-Tail, Kitsune Ascendant|SOK
+1 Rush of Battle|KTK
+1 Sacred Nectar|9ED
+1 Sage of the Inward Eye|KTK
+1 Sangromancer|MBS
+1 Sanguimancy|BNG
+1 Saruli Gatekeepers|DGM
+1 Scavenging Ooze|M14
+1 Scholar of Athreos|THS
+1 Searing Meditation|DDH
+1 Seizan, Perverter of Truth|CHK
+1 Sejiri Merfolk|WWK
+1 Sentry of the Underworld|THS
+1 Seraph of Dawn|AVR
+1 Serene Steward|BFZ
+1 Serra Ascendant|M11
+1 Serra Avatar|C14
+1 Setessan Battle Priest|THS
+1 Sever Soul|8ED
+1 Shadowcloak Vampire|M15
+1 Shamanic Revelation|FRF
+1 Shattered Angel|COM
+1 Shrieking Affliction|RTR
+1 Sidisi's Pet|KTK
+1 Siege Rhino|KTK
+1 Silverstrike|SOI
+1 Skullmead Cauldron|DIS
+1 Soaring Hope|LRW
+1 Sol'kanar the Swamp King|TSB
+1 Solemn Offering|M15
+1 Sophic Centaur|PLC
+1 Sorin Markov|M12
+1 Sorin's Vengeance|M12
+1 Soul Feast|10E
+1 Soul of Theros|M15
+1 Soul Spike|CSP
+1 Soul's Grace|ALA
+1 Soulfire Grand Master|FRF
+1 Spark Trooper|GTC
+1 Spectral Reserves|EMN
+1 Sphinx of the Steel Wind|EMA
+1 Sphinx Sovereign|ALA
+1 Sphinx's Revelation|RTR
+1 Spirit Link|10E
+1 Spirit Loop|TSP
+1 Springsage Ritual|EMN
+1 Starlight Invoker|10E
+1 Staunch Defenders|TPR
+1 Steel of the Godhead|DDI
+1 Stir the Pride|MMA
+1 Stone Haven Medic|BFZ
+1 Storm Herd|COM
+1 Stream of Life|9ED
+2 Stronghold Discipline|CNS
+1 Student of Ojutai|DTK
+1 Succumb to Temptation|EMN
+1 Sultai Flayer|KTK
+1 Sun Droplet|C13
+1 Sun's Bounty|CSP
+1 Sunscorch Regent|DTK
+1 Sunseed Nurturer|ALA
+1 Sunspring Expedition|ZEN
+1 Survival Cache|C13
+1 Suture Priest|NPH
+1 Sword of Light and Shadow|MMA
+1 Sword of War and Peace|NPH
+1 Syphon Life|MMA
+1 Talus Paladin|WWK
+1 Tamanoa|CSP
+1 Tandem Tactics|BFZ
+1 Tanglebloom|9ED
+1 Tavern Swindler|DDM
+1 Tenacity|SOI
+1 Tendrils of Corruption|C14
+1 Tezzeret's Gambit|MM2
+1 Thragtusk|M13
+1 Timely Reinforcements|M12
+2 Tireless Missionaries|M15
+1 Titanic Ultimatum|DDH
+1 Tower of Eons|MRD
+1 Trading Post|C14
+1 Trained Caracal|RTR
+1 Transcendent Master|ROE
+1 Tree of Redemption|ISD
+1 Trespasser's Curse|AKH
+1 Trostani, Selesnya's Voice|RTR
+1 Underworld Coinsmith|C15
+2 Underworld Connections|C15
+1 Unflinching Courage|DGM
+1 Unholy Hunger|ORI
+1 Vampire Envoy|OGW
+2 Vampire Nighthawk|DDP
+1 Vampire Outcasts|MM2
+1 Venerable Monk|DDC
+1 Verdant Haven|M15
+1 Vesper Ghoul|DIS
+1 Victory's Herald|C15
+1 Vigil for the Lost|SOM
+1 Vital Surge|BOK
+1 Vizkopa Confessor|GTC
+1 Volcano Hellion|PLC
+1 Voracious Hatchling|EVE
+1 Voracious Wurm|M14
+1 Wall of Blood|MRD
+1 Wall of Essence|TPR
+1 Wandering Graybeard|MOR
+1 War Oracle|ORI
+1 War Report|NPH
+1 Warden of the First Tree|FRF
+1 Warleader's Helix|DGM
+1 Weed Strangle|LRW
+1 Whip of Erebos|THS
+1 Whitesun's Passage|SOM
+1 Windbrisk Raptor|SHM
+1 Wingmate Roc|KTK
+1 Woeleecher|SHM
+1 Wurmcoil Engine|C14
+1 Zarichi Tiger|GTC
+1 Zur's Weirding|9ED
