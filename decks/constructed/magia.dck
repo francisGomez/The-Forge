@@ -1,0 +1,307 @@
+[metadata]
+Name=magia
+[Main]
+3 Anointed Procession|AKH
+2 Balduvian Rage|CSP
+2 Cathars' Crusade|C14
+2 Confront the Unknown|SOI
+2 Dragon Fodder|ORI
+4 Fire-Lit Thicket|EXP
+1 Forest|DTK|1
+4 Gather the Townsfolk|DDQ
+2 Giant Growth|M14
+2 Hunger of the Howlpack|CNS
+4 Jungle Shrine|C13
+2 Krenko's Command|DDN
+1 Mountain|SOI|1
+1 Plains|SOI|1
+4 Raise the Alarm|EMA
+1 Rhys the Redeemed|SHM
+4 Rugged Highlands|EMA
+4 Rugged Prairie|EXP
+4 Secure the Wastes|DTK
+2 Twilight Drover|DDK
+2 Twinflame|JOU
+2 Vines of the Recluse|OGW
+4 Wind-Scarred Crag|EMA
+4 Zada, Hedron Grinder|BFZ
+[Sideboard]
+1 Abzan Ascendancy|KTK
+1 Aerial Formation|JOU
+1 Agent of the Fates|THS
+1 Ajani's Presence|JOU
+1 Akroan Conscriptor|BNG
+1 Akroan Crusader|THS
+1 Akroan Horse|THS
+1 Akroan Line Breaker|JOU
+1 Alley Evasion|AER
+1 Anax and Cymede|THS
+1 Ancient Amphitheater|C15
+1 Animation Module|KLD
+1 Anointed Procession|AKH
+1 Anointer Priest|AKH
+1 Aphotic Wisps|SHM
+1 Arena Athlete|THS
+1 Artful Dodge|DKA
+1 Aspect of Hydra|BNG
+1 Assault Strobe|SOM
+1 Awakening Zone|PC2
+1 Bandage|TPR
+1 Banishing Knack|EVE
+1 Barkshell Blessing|SHM
+1 Battlegrowth|MRD
+1 Beast Within|DDL
+1 Bioshift|GTC
+1 Bitterblossom|MM2
+1 Blessed Breath|CHK
+1 Blessings of Nature|AVR
+1 Bloodcrazed Hoplite|JOU
+1 Blossoming Defense|KLD
+1 Boros Garrison|C15
+1 Boros Guildgate|C15
+1 Borrowed Hostility|EMN
+1 Brimaz, King of Oreskos|BNG
+1 Brood Birthing|ROE
+1 Brute Force|MM2
+1 Built to Last|KLD
+1 Built to Smash|KLD
+1 Bull Rush|WWK
+1 Burst of Strength|GTC
+1 Call of the Conclave|RTR
+1 Call the Scions|BFZ
+1 Captain's Claws|OGW
+1 Cathars' Crusade|C14
+1 Cellar Door|ISD
+1 Chasm Skulker|M15
+1 Cinder Glade|EXP
+1 Clifftop Retreat|ISD
+1 Coat with Venom|DTK
+1 Colossal Heroics|JOU
+1 Coordinated Assault|THS
+1 Copperline Gorge|SOM
+1 Crib Swap|C15
+1 Crimson Wisps|SHM
+1 Crowd's Favor|M15
+1 Cryptbreaker|EMN
+1 Curse of the Swine|THS
+1 Dark Salvation|EMN
+1 Deadly Allure|DKA
+1 Deathspore Thallid|TSP
+1 Defiant Strike|KTK
+1 Distortion Strike|ROE
+1 Djeru's Resolve|AKH
+1 Doubling Season|MMA
+1 Druid's Deliverance|RTR
+1 Dynacharge|RTR
+1 Elite Skirmisher|BNG
+1 Emerge Unscathed|ROE
+1 Emrakul's Evangel|EMN
+1 Enrage|9ED
+1 Enshrouding Mist|ORI
+1 Even the Odds|FUT
+1 Expedite|OGW
+1 Eyes of the Wisent|LRW
+1 Fists of Ironwood|COM
+1 Flurry of Wings|ARB
+1 Funeral Charm|TSB
+1 Furious Resistance|GTC
+1 Game Trail|SOI
+1 Gather Courage|M15
+1 Geist of Saint Traft|DDQ
+1 Gelatinous Genesis|ROE
+1 Gilt-Leaf Ambush|LRW
+1 Goblin Assault|ALA
+1 Goblin Rabblemaster|M15
+1 Goblinslide|KTK
+1 God-Favored General|BNG
+1 Gods Willing|THS
+1 Groundswell|DDP
+1 Grove of the Burnwillows|V12
+1 Growth Spasm|ROE
+1 Gruul Turf|MM2
+1 Hangarback Walker|ORI
+1 Hanweir Garrison|EMN
+1 Hapatra's Mark|AKH
+1 Hapatra, Vizier of Poisons|AKH
+1 Healing Leaves|PLC
+1 Healing Salve|DDC
+1 Herald of Anafenza|KTK
+1 Hidden Stockpile|AER
+1 Hooded Hydra|KTK
+1 Hordeling Outburst|KTK
+1 Hornet Nest|M15
+1 Hunt the Hunter|THS
+1 Hunted Horror|RAV
+1 Icatian Crier|TSP
+1 Imperious Perfect|EMA
+1 Inexorable Blob|SOI
+1 Ink-Treader Nephilim|GPT
+1 Inspiring Vantage|KLD
+1 Intangible Virtue|EMA
+1 Irresistible Prey|ROE
+1 Jade Mage|C13
+1 Joint Assault|AVR
+1 Jund Battlemage|ALA
+1 Kazandu Refuge|C13
+1 Kazandu Tuskcaller|C13
+1 Kemba, Kha Regent|C14
+1 Kessig Wolf Run|V13
+1 Khalni Garden|C13
+1 Kher Keep|C13
+1 Kiln Fiend|DDJ
+1 Kin-Tree Invocation|KTK
+1 Kodama's Might|CHK
+1 Labyrinth Champion|THS
+1 Launch the Fleet|JOU
+1 Leonin Iconoclast|JOU
+1 Lich Lord of Unx|ARB
+1 Lifecraft Awakening|AER
+1 Lingering Souls|DDK
+1 Lithomancer's Focus|BFZ
+1 Luminarch Ascension|ZEN
+1 Mardu Ascendancy|KTK
+1 Mardu Charm|KTK
+1 Martial Coup|C14
+1 Master Trinketeer|KLD
+1 Mending Hands|9ED
+1 Mending Touch|DGM
+1 Mercy Killing|SHM
+1 Midnight Charm|PLC
+1 Midnight Haunting|C14
+1 Might of Alara|CFX
+1 Might of Old Krosa|TSP
+1 Might of the Masses|ORI
+1 Militia's Pride|LRW
+1 Miming Slime|GTC
+1 Mirran Mettle|MBS
+1 Mirrorwing Dragon|EMN
+1 Mobilization|C14
+1 Molten Birth|M14
+1 Monastery Mentor|FRF
+1 Mortal's Ardor|DDO
+1 Murder Investigation|ORI
+1 Mutagenic Growth|MM2
+1 Mutant's Prey|DGM
+1 Mycologist|PLC
+1 Myr Propagator|SOM
+1 Nature's Panoply|JOU
+1 Needle Spires|OGW
+1 Nighthaze|ROE
+1 Nissa, Voice of Zendikar|OGW
+1 Not Forgotten|SOI
+1 Nuisance Engine|HOP
+1 Oketra the True|AKH
+1 Oketra's Monument|AKH
+1 Ornamental Courage|KLD
+1 Orochi Eggwatcher|CHK
+1 Otherworldly Outburst|EMN
+1 Oust|DDP
+1 Oviya Pashiri, Sage Lifecrafter|KLD
+1 Patrol Signaler|EVE
+1 Piracy Charm|PLC
+1 Pongify|C14
+1 Precinct Captain|DDO
+1 Presence of Gond|C13
+1 Prey Upon|AER
+1 Prey's Vengeance|ROE
+1 Primal Bellow|ZEN
+1 Psychotrope Thallid|PLC
+1 Pulse of the Tangle|DST
+1 Pyromancer Ascension|ZEN
+1 Quest for the Gravelord|ZEN
+1 Raging Ravine|WWK
+1 Rapid Hybridization|C15
+1 Reap the Seagraf|DKA
+1 Renegade's Getaway|AER
+1 Retraction Helix|BNG
+1 Righteousness|DDL
+1 Rise of the Hobgoblins|EVE
+1 Rootborn Defenses|RTR
+1 Rootbound Crag|M13
+1 Rouse the Mob|JOU
+1 Rush of Adrenaline|SOI
+1 Sacred Foundry|EXP
+1 Sacred Mesa|C14
+1 Sarpadian Empires, Vol. VII|TSP
+1 Satyr Nyx-Smith|BNG
+1 Seize the Initiative|SOM
+1 Selesnya Charm|C13
+1 Selesnya Evangel|COM
+1 Selesnya Guildmage|MM2
+1 Servo Schematic|AER
+1 Setessan Battle Priest|THS
+1 Shape the Sands|DTK
+1 Shed Weakness|AKH
+1 Sheltered Thicket|AKH
+1 Shielded Passage|GTC
+1 Shieldmate's Blessing|ZEN
+1 Shrine of Loyal Legions|NPH
+1 Silverfur Partisan|SOI
+1 Skarrg, the Rage Pits|DDL
+1 Skirsdag High Priest|C14
+1 Slayers' Stronghold|AVR
+1 Slip Through Space|OGW
+1 Snare the Skies|AVR
+1 Spawning Pit|DST
+1 Spawnwrithe|DDM
+1 Spectral Reserves|EMN
+1 Spiritual Visit|SOK
+1 Springjack Pasture|C13
+1 Sprout|TSP
+1 Sprout Swarm|FUT
+1 Sprouting Thrinax|C13
+1 Stand Firm|DDL
+1 Stave Off|DDN
+1 Stone Quarry|AKH
+1 Sunhome Guildmage|GTC
+1 Sunhome, Fortress of the Legion|HOP
+1 Supernatural Stamina|AKH
+1 Supply // Demand|DIS
+1 Swift Justice|DDN
+1 Tainted Strike|SOM
+1 Temple of Abandon|THS
+1 Temple of Triumph|THS
+1 Tethmos High Priest|JOU
+1 Teysa, Orzhov Scion|GPT
+1 Thallid|MMA
+1 Thallid Germinator|MMA
+1 Thallid Shell-Dweller|MMA
+1 Thatcher Revolt|AVR
+1 Thraben Doomsayer|DKA
+1 Thrill of the Hunt|TSP
+1 Thrive|MM2
+1 Throne of Empires|M12
+1 Timely Reinforcements|M12
+1 Titan's Strength|ORI
+1 Touch of Moonglove|ORI
+1 Triton Cavalry|JOU
+1 Triton Fortune Hunter|THS
+1 Triton Tactics|THS
+1 Twiddle|8ED
+1 Undying Evil|DKA
+1 Unnatural Endurance|OGW
+1 Unnatural Predation|MBS
+1 Untamed Might|SOM
+1 Utopia Mycon|FUT
+1 Valor Made Real|CNS
+1 Vampire's Bite|DDK
+1 Vault Skyward|SOM
+1 Vessel of Ephemera|SOI
+1 Veteran's Reflexes|WWK
+1 Viridescent Wisps|SHM
+1 Virulent Swipe|ROE
+1 Vitaspore Thallid|PLC
+1 Vitu-Ghazi Guildmage|RTR
+1 Vitu-Ghazi, the City-Tree|C13
+1 Voice of Resurgence|DGM
+1 Wake the Reflections|DGM
+1 Wakedancer|EMA
+1 Warren Weirding|MMA
+1 Warriors' Lesson|THS
+1 Wayfaring Temple|RTR
+1 Whirlermaker|KLD
+1 Wing Puncture|SOM
+1 Wojek Siren|RAV
+1 Wurmcalling|TSP
+1 Xathrid Necromancer|M14
+1 Young Pyromancer|EMA

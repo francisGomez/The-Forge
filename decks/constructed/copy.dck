@@ -1,0 +1,166 @@
+[metadata]
+Name=copy
+[Main]
+4 Copy Enchantment|RAV
+4 Darksteel Citadel|MM2
+4 Efficient Construction|AER
+4 Foundry of the Consuls|ORI
+4 Hangarback Walker|ORI
+1 Island|10E|1
+2 Island|10E|2
+3 Island|10E|3
+2 Island|10E|4
+4 Mechanized Production|AER
+4 Memnite|SOM
+4 Mirage Mirror|HOU
+4 Mox Opal|MM2
+4 Paradise Mantle|MMA
+4 Sword of the Meek|FUT
+4 Thopter Foundry|C16
+4 Thopter Spy Network|ORI
+4 Trading Post|C16
+[Sideboard]
+1 Adorned Pouncer|HOU
+1 Altered Ego|SOI
+1 Anointer Priest|AKH
+1 Artisan of Forms|THS
+1 Aven Wind Guide|AKH
+1 Back from the Brink|ISD
+1 Body Double|DDM
+1 Cackling Counterpart|C14
+1 Call of the Nightwing|GTC
+1 Cemetery Puca|SHM
+1 Chandra, Pyromaster|M15
+1 Clever Impersonator|KTK
+1 Clone|M14
+1 Clone Legion|DTK
+1 Cloven Casting|ARB
+1 Cogwork Assembler|AER
+1 Coursers' Accord|RTR
+1 Cryptoplasm|MBS
+1 Curse of Echoes|DKA
+1 Cytoshape|DIS
+1 Dimir Doppelganger|CNS
+1 Djinn Illuminatus|DDJ
+1 Dreamstealer|HOU
+1 Druid's Deliverance|RTR
+1 Dual Casting|AVR
+1 Echo Mage|C13
+1 Elite Arcanist|M14
+1 Endless Swarm|SOK
+1 Enduring Ideal|SOK
+1 Essence of the Wild|ISD
+1 Eternal Dominion|SOK
+1 Everflowing Chalice|MM2
+1 Evil Twin|ISD
+1 Eye of the Storm|RAV
+1 Eyes in the Skies|RTR
+1 Fated Infatuation|BNG
+2 Felhide Spiritbinder|BNG
+1 Flameshadow Conjuring|ORI
+1 Followed Footsteps|RAV
+1 Giant Adephage|GTC
+1 Giantbaiting|SHM
+1 God-Pharaoh's Gift|HOU
+1 Growing Ranks|RTR
+1 Heat Shimmer|LRW
+1 Hidden Strings|DGM
+1 Hive Mind|M10
+1 Horncaller's Chant|RTR
+1 Hour of Eternity|HOU
+1 Illusionist's Bracers|GTC
+1 Increasing Vengeance|DKA
+1 Infinite Reflection|C14
+1 Ink-Treader Nephilim|GPT
+1 Insidious Will|KLD
+1 Isochron Scepter|EMA
+1 Izzet Guildmage|DDJ
+1 Jwari Shapeshifter|WWK
+1 Kiki-Jiki, Mirror Breaker|MM2
+1 Kurkesh, Onakke Ancient|M15
+1 Last Thoughts|GTC
+1 Lazav, Dimir Mastermind|GTC
+1 Melek, Izzet Paragon|C15
+1 Meletis Charlatan|THS
+1 Mental Vapors|GTC
+1 Mercurial Pretender|M15
+1 Midnight Recovery|GTC
+1 Mimeofacture|GPT
+1 Mimic Vat|SOM
+1 Minion Reflector|ALA
+1 Mirari|C13
+1 Mirror Mockery|DTK
+1 Mirror Sheen|EVE
+1 Mirror-Sigil Sergeant|CFX
+1 Mirrorpool|OGW
+1 Mirrorweave|SHM
+1 Mirrorwing Dragon|EMN
+1 Mirrorworks|MBS
+1 Mizzium Transreliquat|GPT
+1 Myr Propagator|SOM
+1 Nemesis Trap|COM
+1 Nivix Guildmage|C13
+1 Pack Rat|RTR
+1 Panoptic Mirror|DST
+1 Paranoid Delusions|GTC
+1 Phantasmal Image|M12
+1 Phyrexian Metamorph|NPH
+1 Polymorphous Rush|JOU
+1 Precursor Golem|MM2
+1 Progenitor Mimic|DGM
+1 Prototype Portal|SOM
+1 Proven Combatant|HOU
+1 Pyromancer Ascension|ZEN
+1 Pyromancer's Goggles|ORI
+1 Quicksilver Gargantuan|SOM
+1 Renegade Doppelganger|ROE
+1 Resilient Khenra|HOU
+1 Reverberate|M13
+1 Reversal of Fortune|5DN
+1 Rhys the Redeemed|SHM
+1 Rings of Brighthearth|LRW
+1 Rite of Replication|C15
+1 Rootborn Defenses|RTR
+1 Sacred Cat|AKH
+1 Saheeli Rai|KLD
+1 Saheeli's Artistry|KLD
+1 Sakashima the Impostor|SOK
+1 Scion of Vitu-Ghazi|DGM
+1 Sculpting Steel|10E
+1 Seance|DKA
+1 Second Harvest|SOI
+1 Shapesharer|LRW
+1 Shapeshifter's Marrow|FUT
+1 Soul Foundry|MRD
+1 Soul Separator|EMN
+1 Spawnwrithe|DDM
+1 Spellbinder|DST
+1 Spelltwine|DDM
+1 Spellweaver Helix|MRD
+1 Spitting Image|EVE
+1 Sprouting Phytohydra|DIS
+1 Steadfast Sentinel|HOU
+1 Stolen Identity|GTC
+1 Strionic Resonator|M14
+1 Sundering Growth|RTR
+1 Sunscourge Champion|HOU
+1 Supplant Form|FRF
+1 Swarm Intelligence|HOU
+1 Temmet, Vizier of Naktamun|AKH
+1 The Scarab God|MPS_AKH
+1 Thespian's Stage|GTC
+1 Trait Doctoring|DGM
+1 Trostani's Judgment|RTR
+1 Trostani, Selesnya's Voice|RTR
+1 Twinflame|JOU
+1 Unwavering Initiate|AKH
+1 Uyo, Silent Prophet|C13
+1 Vesuva|V12
+1 Vesuvan Shapeshifter|TSP
+1 Vitu-Ghazi Guildmage|RTR
+1 Vizier of Many Faces|AKH
+1 Voidwalk|GTC
+1 Wake the Reflections|DGM
+1 Wayfaring Temple|RTR
+1 Wort, the Raidmother|SHM
+1 Zada, Hedron Grinder|BFZ
